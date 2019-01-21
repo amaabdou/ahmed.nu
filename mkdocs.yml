@@ -1,0 +1,35 @@
+# Project information
+site_name: 'Ahmed Abdou'
+site_description: ''
+site_author: 'Ahmed Abdou'
+site_url: 'https://ahmed.nu'
+copyright: 'Creative Commons'
+
+
+extra_css:
+  - 'css/extra.css'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/amaabdou/'
+    - type: 'twitter'
+      link: 'https://twitter.com/ama_abdou'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/ahmedmaabdou/'
+
+theme: 
+  name: 'material'
+  language: 'en'
+  logo: 'https://s.gravatar.com/avatar/33e774f7ce71bf2e6acaecae2e765c9e'
+  favicon: false
+  palette:
+    primary: 'white'
+    accent: 'white'
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+use_directory_urls: false
+nav:
+  - Hi: index.md

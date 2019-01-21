@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ahmedabdou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ahmed.nu
+  * I am ahmedabdou (https://keybase.io/ahmedabdou) on keybase.
+  * I have a public key with fingerprint 3115 65EE 3EBB F546 7B84  A3AA 0449 C27E BE19 A225
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120281bb17085bb2f9f1a76c158a1e9758e1ae51971f0ad75150c8aeb986f38afa00a",
+      "fingerprint": "311565ee3ebbf5467b84a3aa0449c27ebe19a225",
+      "host": "keybase.io",
+      "key_id": "0449c27ebe19a225",
+      "kid": "01019cbbd7033770926adaf70bd078393261f56569570ff396d1afc728801e04c7320a",
+      "uid": "36faf142ca4b2ff189708068932eff19",
+      "username": "ahmedabdou"
+    },
+    "service": {
+      "hostname": "ahmed.nu",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1547947068,
+  "expire_in": 157680000,
+  "prev": "a0491f7736f1f8f5419767f47d382a227f65e918c41401e6450da6a36be42fc7",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNsAnicZVJrTFRHGN0tAhUCUkWr1US4AUPLwzv3NfeutmDENig1VKLQKCxz985l
+l8fuug9Y5ZGKQESDhFowiGJL22g0LdoYKNC0LhKwgfAMhQhKm6bU0oAQqgRSaWdp
+TZp0/ky+L+ecOd+ZrzPAS+OnXZPQUfztlsZwbY+71qk5trd3dwElW5QTlK6Aysar
+F85RsN2hzzYplI6iAUMzIpBlAGmRl2VGlVSAoGAAvIgAliAvYoAwDyQIVBopkAc8
+bRARliVRUFkRqYimERVFqSZzJrZZbSazg8iyAPACjzGLZVnlOQHKIodYhGiOkwwM
+xDIGEmIYnhCNFruHQczJyI5jTBbSI4X+H3v/x7/wTQPJIMsKpFkWQlpiBKQgFdKy
+QkORlVhGACqxIEg8pFWVlQQFINUAGVGkAaY5A2SZVd/OVTlWUJEKOMaAOBKBCkSJ
+xEELItHBpJQ8QDu2mVEuJmhkzMUKkhWLkyqKokg/z2TAnmg9s/wXE2N2EqbVZnFY
+DJYc0jU6HFa7zsNynLB6YPlY1v8roJdNZoWkSBh52GY3WcyUDhCkwWHyKAKegxIH
+iakoCrusJhvWmzwIHgoiTY7nHZzneZnmJKBCSGYCqkjSJ38nQJWDCisyJESokp+R
+gGjgAEeyEDieVpCAWEHGHEMiojwjHTdbKB0jEZ8ok2jaTZlm5HDaMFXU4T62RqP1
+0/h4v+RZL43f2qAXS2eMWPen/1axPLaqdKKvRC59WrdxNL3rpwOwfOVstBetWRpK
+3CUOPTt+6siG5JWfK8433M18/97U3fcS2vcpbvOVX2feokutdUrS+Ok9yd3deH/z
+ugMPl388dKZlMaZy2zf2uufXYdWTvrHjjV+0Gyr9r1EbMn2OjFaE1obU/tUSvT/+
+/lcdVyfyW3sv6bsSx+o2HgwoDLzQHO4b+OaYXRPXtiM25fMUyhE2/vaN0BU9P0FV
+fTkzffF8zx1nYb95IjbmjGVem5FiDNBPFjeeG6tN1m9rzxmMHo022j4tEuofxcZQ
+67UVO+iaku1qnEClattmn8HgyJ1P+fHKSxWfnew/GrFY/fUWtz2p+nJa2UBN9s1G
+S1xNQVh9d2DB4dKyo7Mh8ZJZnukpCc5/9cJCc90t9/fDg21pAft8N+3+bme6piUy
+P+h2a36t7vo7xQ3LrrQ5X3E5tHjObb/i+vCjpt+9dG+cfriVi2/q9VLn01OHXF4X
+O7PwK131kTceuebvBQsaptBk3RwyUL3pUJ+27HHi1PSYLveD6cenvOeChjNOWp93
+vPZu0MGFgWv+5pr7vy16J51NX6hUJv3R2ozt/a2+bZ8MPphKPhx2p/5W+S/1De68
+kayr670Sbl7eJc3VTLqY3LmSpuIn+j8+7k/ZW5LTHe4znDrrszni5azbo/LSyNLr
+OXs6Ryx9D37o+BurEbus
+=jN3e
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ahmedabdou
+
+==================================================================
