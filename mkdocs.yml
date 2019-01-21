@@ -20,16 +20,12 @@ extra:
 
 theme: 
   name: 'material'
-  language: 'en'
-  logo: 'https://s.gravatar.com/avatar/33e774f7ce71bf2e6acaecae2e765c9e'
-  favicon: false
-  palette:
-    primary: 'white'
-    accent: 'white'
+
+    
 markdown_extensions:
-  - admonition
-  - codehilite
-  - footnotes
-use_directory_urls: false
+  - codehilite:
+      linenums: true
+  - pymdownx.superfences
+
 nav:
   - Hi: index.md
