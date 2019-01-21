@@ -20,7 +20,9 @@ extra:
 
 theme: 
   name: 'material'
-
+  palette:
+    primary: 'white'
+    accent: 'white'
     
 markdown_extensions:
   - codehilite:
