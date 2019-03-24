@@ -4,6 +4,7 @@ site_description: ''
 site_author: 'Ahmed Abdou'
 site_url: 'https://ahmed.nu'
 copyright: 'Creative Commons'
+google_analytics: ['UA-136798188-1', 'ahmd.io']
 
 
 extra_css:
